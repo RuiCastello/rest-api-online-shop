@@ -5,6 +5,7 @@
 <br />
 
 [DEMO](https://rest-api-online-shop.herokuapp.com/)  
+(if nothing shows up, give it at least 3 seconds to load, the server can be a bit slow when there's a cold start. Every other request will be much faster after that.) 
 
 - Credentials:
 ```
