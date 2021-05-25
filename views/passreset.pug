@@ -1,0 +1,23 @@
+doctype html
+html(xmlns="http://www.w3.org/1999/xhtml")
+  head
+    meta(http-equiv="Content-Type" content="text/html; charset=utf-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title= subject
+
+    include _style
+  body
+    table#backgroundTable(cellpadding="0" cellspacing="0" border="0")
+      tr
+        td
+          table(cellpadding="0" cellspacing="0" border="0" align="center")
+            tr
+              td(width="200" valign="top")
+              td(width="200" valign="top")
+              td(width="200" valign="top")
+          p Olá #{firstName},
+          p Está a receber este email porque a opção de fazer reset à password foi ativada, caso esteja a receber este email por engano e não tiver efetuado este pedido, não se preocupe, simplesmente ignore este email e nada irá acontecer, tudo ficará como estava. Caso queira realmente fazer o reset à sua password, por favor siga o link abaixo.
+          p Para fazer reset siga o link #{url} com o método POST.
+          a(href=`${url}` target="_blank" title="Password Reset" style="color: orange; text-decoration: none;") Clique aqui para fazer reset à sua password na Loja online com Node.js, Express, Mongoose
+          //- img.image_fix(src="full path to image" alt="Your alt text" title="Your title text" width="x" height="x")
+          p Obrigado pela sua escolha!

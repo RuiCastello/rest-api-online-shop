@@ -1,0 +1,370 @@
+[{
+  "_id": {
+    "$oid": "5f889ce0d2744019780663fb"
+  },
+  "role": "CS",
+  "purchases": [
+    {
+      "$oid": "5f88cb4b87dc865ed0536ae9"
+    }
+  ],
+  "comments": [
+    {
+      "$oid": "5f88d15887dc865ed0536b53"
+    },
+    {
+      "$oid": "5f88d41487dc865ed0536b54"
+    },
+    {
+      "$oid": "5f88d41d87dc865ed0536b55"
+    },
+    {
+      "$oid": "5f88d42487dc865ed0536b56"
+    },
+    {
+      "$oid": "5f88d42b87dc865ed0536b57"
+    },
+    {
+      "$oid": "5f88d43287dc865ed0536b58"
+    },
+    {
+      "$oid": "5f88d43887dc865ed0536b59"
+    },
+    {
+      "$oid": "5f88d43e87dc865ed0536b5a"
+    },
+    {
+      "$oid": "5f88d44487dc865ed0536b5b"
+    },
+    {
+      "$oid": "5f88d44a87dc865ed0536b5c"
+    },
+    {
+      "$oid": "5f88d45187dc865ed0536b5d"
+    },
+    {
+      "$oid": "5f88d45787dc865ed0536b5e"
+    },
+    {
+      "$oid": "5f88d45e87dc865ed0536b5f"
+    },
+    {
+      "$oid": "5f88d46387dc865ed0536b60"
+    },
+    {
+      "$oid": "5f88d46a87dc865ed0536b61"
+    },
+    {
+      "$oid": "5f88d47187dc865ed0536b62"
+    },
+    {
+      "$oid": "5f88d47887dc865ed0536b63"
+    },
+    {
+      "$oid": "5f88d47d87dc865ed0536b64"
+    }
+  ],
+  "feedback": [
+    {
+      "$oid": "5f88d04d87dc865ed0536b3f"
+    },
+    {
+      "$oid": "5f88d05687dc865ed0536b40"
+    },
+    {
+      "$oid": "5f88d05f87dc865ed0536b41"
+    },
+    {
+      "$oid": "5f88d06687dc865ed0536b42"
+    },
+    {
+      "$oid": "5f88d06e87dc865ed0536b43"
+    },
+    {
+      "$oid": "5f88d07687dc865ed0536b44"
+    },
+    {
+      "$oid": "5f88d07d87dc865ed0536b45"
+    },
+    {
+      "$oid": "5f88d08487dc865ed0536b46"
+    },
+    {
+      "$oid": "5f88d08b87dc865ed0536b47"
+    },
+    {
+      "$oid": "5f88d09187dc865ed0536b48"
+    },
+    {
+      "$oid": "5f88d09787dc865ed0536b49"
+    },
+    {
+      "$oid": "5f88d09e87dc865ed0536b4a"
+    },
+    {
+      "$oid": "5f88d0a787dc865ed0536b4b"
+    },
+    {
+      "$oid": "5f88d0ad87dc865ed0536b4c"
+    },
+    {
+      "$oid": "5f88d0b487dc865ed0536b4d"
+    },
+    {
+      "$oid": "5f88d0ba87dc865ed0536b4e"
+    },
+    {
+      "$oid": "5f88d0c087dc865ed0536b4f"
+    },
+    {
+      "$oid": "5f88d0c587dc865ed0536b50"
+    },
+    {
+      "$oid": "5f88d0cb87dc865ed0536b51"
+    },
+    {
+      "$oid": "5f88d0d387dc865ed0536b52"
+    }
+  ],
+  "wishlist": [
+    {
+      "$oid": "5f88a0b10f041f1420e58364"
+    },
+    {
+      "$oid": "5f88a0bc0f041f1420e58366"
+    }
+  ],
+  "email": "cs@api.pt",
+  "password": "$2b$10$PPqqWfFJzyRDFonroEyas.l16iAwyBoKSsjMpsb..yi5JLK0wt1J6",
+  "name": "Sr Suporte ao Cliente",
+  "username": "cs",
+  "createdAt": {
+    "$date": "2020-10-15T19:02:56.620Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T23:07:06.436Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "role": "ADMIN",
+  "purchases": [
+    {
+      "$oid": "5f88c93f87dc865ed0536aca"
+    },
+    {
+      "$oid": "5f88ca7187dc865ed0536ad3"
+    }
+  ],
+  "comments": [
+    {
+      "$oid": "5f88d4f387dc865ed0536b65"
+    },
+    {
+      "$oid": "5f88d4fe87dc865ed0536b66"
+    },
+    {
+      "$oid": "5f88d50787dc865ed0536b67"
+    },
+    {
+      "$oid": "5f88d51487dc865ed0536b68"
+    }
+  ],
+  "feedback": [
+    {
+      "$oid": "5f88ce4287dc865ed0536b2b"
+    },
+    {
+      "$oid": "5f88ce4d87dc865ed0536b2c"
+    },
+    {
+      "$oid": "5f88ce5587dc865ed0536b2d"
+    },
+    {
+      "$oid": "5f88ce6b87dc865ed0536b2e"
+    },
+    {
+      "$oid": "5f88ce7587dc865ed0536b2f"
+    },
+    {
+      "$oid": "5f88ce7d87dc865ed0536b30"
+    },
+    {
+      "$oid": "5f88ce8987dc865ed0536b31"
+    },
+    {
+      "$oid": "5f88ce9387dc865ed0536b32"
+    },
+    {
+      "$oid": "5f88ce9e87dc865ed0536b33"
+    },
+    {
+      "$oid": "5f88cea787dc865ed0536b34"
+    },
+    {
+      "$oid": "5f88ceb087dc865ed0536b35"
+    },
+    {
+      "$oid": "5f88ceb887dc865ed0536b36"
+    },
+    {
+      "$oid": "5f88cec187dc865ed0536b37"
+    },
+    {
+      "$oid": "5f88cec987dc865ed0536b38"
+    },
+    {
+      "$oid": "5f88ced187dc865ed0536b39"
+    },
+    {
+      "$oid": "5f88ceda87dc865ed0536b3a"
+    },
+    {
+      "$oid": "5f88cee187dc865ed0536b3b"
+    },
+    {
+      "$oid": "5f88ceec87dc865ed0536b3c"
+    },
+    {
+      "$oid": "5f88cef587dc865ed0536b3d"
+    },
+    {
+      "$oid": "5f88cefe87dc865ed0536b3e"
+    }
+  ],
+  "wishlist": [
+    {
+      "$oid": "5f88c457bb3ac92ef49c7929"
+    },
+    {
+      "$oid": "5f88a0b10f041f1420e58364"
+    },
+    {
+      "$oid": "5f88a0bc0f041f1420e58366"
+    }
+  ],
+  "email": "admin@api.pt",
+  "password": "$2b$10$Y7mhaR51NYv3Iu1g46CpZOpPD8u4OhxwGj1bVL5SU7WZKUtB7LLcu",
+  "name": "Sr Administrador",
+  "username": "admin",
+  "createdAt": {
+    "$date": "2020-10-15T19:03:12.636Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T23:06:27.065Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f889d3fd2744019780663fd"
+  },
+  "role": "NORMAL",
+  "purchases": [
+    {
+      "$oid": "5f88cc2187dc865ed0536aff"
+    }
+  ],
+  "comments": [
+    {
+      "$oid": "5f88d54287dc865ed0536b69"
+    },
+    {
+      "$oid": "5f88d54987dc865ed0536b6a"
+    },
+    {
+      "$oid": "5f88d55087dc865ed0536b6b"
+    }
+  ],
+  "feedback": [
+    {
+      "$oid": "5f88cd2487dc865ed0536b16"
+    },
+    {
+      "$oid": "5f88cd3187dc865ed0536b17"
+    },
+    {
+      "$oid": "5f88cd5087dc865ed0536b18"
+    },
+    {
+      "$oid": "5f88cd5b87dc865ed0536b19"
+    },
+    {
+      "$oid": "5f88cd6787dc865ed0536b1a"
+    },
+    {
+      "$oid": "5f88cd7187dc865ed0536b1b"
+    },
+    {
+      "$oid": "5f88cd8287dc865ed0536b1c"
+    },
+    {
+      "$oid": "5f88cd8a87dc865ed0536b1d"
+    },
+    {
+      "$oid": "5f88cd9487dc865ed0536b1e"
+    },
+    {
+      "$oid": "5f88cd9d87dc865ed0536b1f"
+    },
+    {
+      "$oid": "5f88cda587dc865ed0536b20"
+    },
+    {
+      "$oid": "5f88cdaf87dc865ed0536b21"
+    },
+    {
+      "$oid": "5f88cdbc87dc865ed0536b22"
+    },
+    {
+      "$oid": "5f88cdc487dc865ed0536b23"
+    },
+    {
+      "$oid": "5f88cdcc87dc865ed0536b24"
+    },
+    {
+      "$oid": "5f88cdd487dc865ed0536b25"
+    },
+    {
+      "$oid": "5f88cddc87dc865ed0536b26"
+    },
+    {
+      "$oid": "5f88cde487dc865ed0536b27"
+    },
+    {
+      "$oid": "5f88cdf387dc865ed0536b29"
+    },
+    {
+      "$oid": "5f88cdfb87dc865ed0536b2a"
+    }
+  ],
+  "wishlist": [
+    {
+      "$oid": "5f88c0cebb3ac92ef49c7917"
+    },
+    {
+      "$oid": "5f88c037bb3ac92ef49c7915"
+    },
+    {
+      "$oid": "5f88a0bc0f041f1420e58366"
+    },
+    {
+      "$oid": "5f88a0b10f041f1420e58364"
+    },
+    {
+      "$oid": "5f88c457bb3ac92ef49c7929"
+    }
+  ],
+  "email": "user@api.pt",
+  "password": "$2b$10$kkKeuPgCELKyZ.UiqCTW4eGStJiq96R4OcJbQ2feCG960jy2alZji",
+  "name": "Sr Utilizador",
+  "username": "user",
+  "createdAt": {
+    "$date": "2020-10-15T19:04:31.674Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T23:05:52.643Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,157 @@
+[{
+  "_id": {
+    "$oid": "5f889e78a339465b185e67ce"
+  },
+  "name": "electrodomésticos",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:09:44.729Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:09:44.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f889e7ea339465b185e67cf"
+  },
+  "name": "informática",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:09:50.766Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:10:37.346Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f889e9aa339465b185e67d0"
+  },
+  "name": "placas gráficas",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "parent": {
+    "$oid": "5f889e7ea339465b185e67cf"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:10:18.500Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:10:18.500Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f889f02a339465b185e67d1"
+  },
+  "name": "aspiradores",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "parent": {
+    "$oid": "5f889e78a339465b185e67ce"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:12:02.083Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:12:02.083Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f889f08a339465b185e67d2"
+  },
+  "name": "frigorificos",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "parent": {
+    "$oid": "5f889e78a339465b185e67ce"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:12:08.195Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:12:08.195Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f889f0ea339465b185e67d3"
+  },
+  "name": "microondas",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "parent": {
+    "$oid": "5f889e78a339465b185e67ce"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:12:14.203Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:12:14.203Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f88a986a85c995724a597ce"
+  },
+  "name": "cpus",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "parent": {
+    "$oid": "5f889e7ea339465b185e67cf"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:56:54.665Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:56:54.665Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f88a997a85c995724a597cf"
+  },
+  "name": "memórias ram",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "parent": {
+    "$oid": "5f889e7ea339465b185e67cf"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:57:11.826Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T21:54:10.480Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f88a9a0a85c995724a597d0"
+  },
+  "name": "impressoras",
+  "user": {
+    "$oid": "5f889cf0d2744019780663fc"
+  },
+  "parent": {
+    "$oid": "5f889e7ea339465b185e67cf"
+  },
+  "createdAt": {
+    "$date": "2020-10-15T19:57:20.535Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-15T19:57:20.535Z"
+  },
+  "__v": 0
+}]
